@@ -2,15 +2,6 @@
 
 An advanced n8n-powered automation system that streamlines the job search process by automatically discovering, analyzing, and processing job opportunities with AI-driven insights and personalized content generation.
 
-## 📋 Table of Contents
-- [Overview](#overview)
-- [Workflow Architecture](#workflow-architecture)
-- [Detailed Process Flow](#detailed-process-flow)
-- [Components & Technologies](#components--technologies)
-- [Setup & Configuration](#setup--configuration)
-- [Output & Results](#output--results)
-- [Future Improvements](#future-improvements)
-
 ## 🎯 Overview
 
 This automation workflow revolutionizes the job search process by:
@@ -42,6 +33,8 @@ graph LR
 ```
 
 ## 🔄 Detailed Process Flow
+
+<img width="1468" height="292" alt="Screenshot 2025-08-25 at 16 29 30" src="https://github.com/user-attachments/assets/59a7bf93-403d-4269-961f-1ee8d4560617" />
 
 ### 1. **Scheduled Trigger** ⏰
 - **Frequency**: Daily at 12:00 PM
